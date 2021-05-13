@@ -1,1 +1,11 @@
-# Q2943198891
+http = a2.ap.fastqvpn.com:29980, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇭🇰 香港1
+http = a1.ap.fastqvpn.com:29980, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇭🇰 香港2
+http = a3.ap.fastqvpn.com:29980, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇭🇰 香港3
+http = global.ap.fastqvpn.com:29980, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇭🇰 香港4
+http = a4.ap.fastqvpn.com:29980, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇸🇬 新加坡1
+http = global.ap.fastqvpn.com:29982, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇦🇺 澳大利亚
+http = global.ap.fastqvpn.com, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag=🇨🇦 加拿大
+http = global.ap.fastqvpn.com:29984, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag= 德国
+http = global.ap.fastqvpn.com:29987, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag= 英国
+http = global.ap.fastqvpn.com:29988, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag= 美国
+http = global.ap.fastqvpn.com:29985, username=435050463256117248, password=2c95d4b7-8d0e-452f-a4b8-f1a4ce121139, over-tls=true, fast-open=false, udp-relay=false, tls-verification=true, tag= 日本
